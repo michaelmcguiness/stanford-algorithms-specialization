@@ -1,5 +1,7 @@
 # Input: array of n numbers, unsorted
 # Output: array of same numbers, sorted in increasing order.
+# O(nlogn)
+
 from typing import List
 import math
 
