@@ -1,6 +1,7 @@
 # Input: array of n numbers, unsorted
 # Output: array of same numbers, sorted in increasing order.
 # O(nlogn)
+# For every input array of n numbers, Merge Sort produces a sorted output array and uses at most 6nlogn + 6n operations
 
 from typing import List
 import math
